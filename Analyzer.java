@@ -1,5 +1,7 @@
 public class Analyzer
 {
+	//Quinn Was Here Lab 11 proof
+
 
     //this method allows a linear search, going through a String array and search index by index until the correct String is found
     //this code iterates through dataSet's length and uses the compareTo function in order to compare the String at
